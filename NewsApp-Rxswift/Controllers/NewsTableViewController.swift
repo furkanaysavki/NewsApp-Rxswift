@@ -60,4 +60,4 @@ class NewsTableViewController : UITableViewController {
     }
 }
 
-//https://newsapi.org/v2/top-headlines?country=us&apiKey=de3c5ace2e2549159229d60278dd4ae1
+
